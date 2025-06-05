@@ -1,0 +1,17 @@
+# Ignore the data directory
+data_converted/
+
+data/
+
+# Ignore any .jpg files in the data directory
+*.jpg
+
+# Ignore any .tif files in the data directory
+*.tif
+
+# Ignore any other large or sensitive data files
+*.png
+*.tiff
+
+# Ignore virtual environment directories (e.g., venv)
+venv/
