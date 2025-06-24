@@ -3,6 +3,10 @@ data_converted/
 
 data/
 
+pictures/
+
+models/
+
 # Ignore any .jpg files in the data directory
 *.jpg
 
